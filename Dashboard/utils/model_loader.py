@@ -11,9 +11,9 @@ from tensorflow.keras.models import load_model
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PROJECT_ROOT = os.path.dirname(BASE_DIR)
 
-PURECNN_MODEL = os.path.join(PROJECT_ROOT, "PureCNN", "Model", "final_model.keras")
-RESNET_MODEL = os.path.join(PROJECT_ROOT, "ResNet50", "Model", "resnet50_final.keras")
-EFFICIENT_MODEL = os.path.join(PROJECT_ROOT, "EfficientNet", "Model", "efficientnet_final.keras")
+PURECNN_MODEL = os.path.join(PROJECT_ROOT, "PureCNN", "Model", "final_model_fixed.keras")
+RESNET_MODEL = os.path.join(PROJECT_ROOT, "ResNet50", "Model", "resnet50_final_fixed.keras")
+EFFICIENT_MODEL = os.path.join(PROJECT_ROOT, "EfficientNet", "Model", "efficientnet_final_fixed.keras")
 
 CLASS_NAMES = ["NOPOTHOLE", "POTHOLE"]
 
