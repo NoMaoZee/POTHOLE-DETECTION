@@ -1,0 +1,29 @@
+{
+    "project_info": {
+        "name": "Pothole Detection System - Transfer Learning",
+        "date": "2025-12-23 22:29:34",
+        "model_type": "ResNet50 Transfer Learning",
+        "base_frozen": true,
+        "classes": [
+            "NOPOTHOLE",
+            "POTHOLE"
+        ]
+    },
+    "dataset": {
+        "total_images": 5693,
+        "train": 3925,
+        "valid": 1176,
+        "test": 592
+    },
+    "performance": {
+        "test_accuracy": 0.9915540540540541,
+        "test_precision": 0.9932432432432432,
+        "test_recall": 0.98989898989899,
+        "test_f1": 0.9915682967959528
+    },
+    "model_info": {
+        "total_params": 24154626,
+        "trainable_params": 562306,
+        "frozen_params": 23592320
+    }
+}

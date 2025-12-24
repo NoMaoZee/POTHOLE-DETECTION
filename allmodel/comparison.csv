@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1-Score,Average
+PureCNN,99.49,99.33,99.66,99.5,99.495
+ResNet50,99.16,99.32,98.99,99.16,99.1575
+EfficientNetB0,98.48,98.0,98.99,98.49,98.49000000000001

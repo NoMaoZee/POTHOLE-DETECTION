@@ -1,0 +1,15 @@
+# Blokir hanya Dataset (Terlalu besar & tidak perlu di GitHub)
+DatasetUAP/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+
+# Virtual environment
+.env
+.venv
+env/
+venv/

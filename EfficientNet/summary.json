@@ -1,0 +1,15 @@
+{
+    "project": "Pothole Detection - EfficientNetB0",
+    "date": "2025-12-23 22:55:51",
+    "dataset": {
+        "train": 3925,
+        "valid": 1176,
+        "test": 592
+    },
+    "performance": {
+        "accuracy": 0.9847972972972973,
+        "precision": 0.98,
+        "recall": 0.98989898989899,
+        "f1": 0.9849246231155779
+    }
+}

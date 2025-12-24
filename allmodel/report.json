@@ -1,0 +1,33 @@
+{
+    "date": "2025-12-23 23:18:31",
+    "champion": {
+        "model": "PureCNN",
+        "score": 99.495
+    },
+    "ranking": [
+        {
+            "Model": "PureCNN",
+            "Accuracy": 99.49,
+            "Precision": 99.33,
+            "Recall": 99.66,
+            "F1-Score": 99.5,
+            "Average": 99.495
+        },
+        {
+            "Model": "ResNet50",
+            "Accuracy": 99.16,
+            "Precision": 99.32,
+            "Recall": 98.99,
+            "F1-Score": 99.16,
+            "Average": 99.1575
+        },
+        {
+            "Model": "EfficientNetB0",
+            "Accuracy": 98.48,
+            "Precision": 98.0,
+            "Recall": 98.99,
+            "F1-Score": 98.49,
+            "Average": 98.49000000000001
+        }
+    ]
+}

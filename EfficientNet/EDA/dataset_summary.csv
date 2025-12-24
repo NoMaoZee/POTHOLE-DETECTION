@@ -1,0 +1,4 @@
+Dataset,Pothole,No Pothole,Total,Pothole %
+Train,2013,1912,3925,51.29
+Valid,592,584,1176,50.34
+Test,297,295,592,50.17

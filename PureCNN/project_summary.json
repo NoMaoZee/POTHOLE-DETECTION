@@ -1,0 +1,23 @@
+{
+    "project_info": {
+        "name": "Pothole Detection System",
+        "date": "2025-12-23 21:23:22",
+        "model_type": "CNN",
+        "classes": [
+            "NOPOTHOLE",
+            "POTHOLE"
+        ]
+    },
+    "dataset": {
+        "total_images": 5693,
+        "train": 3925,
+        "valid": 1176,
+        "test": 592
+    },
+    "performance": {
+        "test_accuracy": 0.9949324324324325,
+        "test_precision": 0.9932885906040269,
+        "test_recall": 0.9966329966329966,
+        "test_f1": 0.9949579831932773
+    }
+}

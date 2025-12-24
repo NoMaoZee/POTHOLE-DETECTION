@@ -1,0 +1,58 @@
+{
+    "check_date": "2025-12-23 21:23:40",
+    "total_folders": 6,
+    "status": "incomplete",
+    "missing_files": [
+        "EDA/distribution_pie.png",
+        "XAI/saliency_maps.png"
+    ],
+    "folders": {
+        "EDA": {
+            "file_count": 4,
+            "files": [
+                "sample_nopothole.png",
+                "sample_pothole.png",
+                "stacked_bar.png",
+                "sunburst_distribution.html"
+            ]
+        },
+        "Preprocessing": {
+            "file_count": 0,
+            "files": []
+        },
+        "Model": {
+            "file_count": 6,
+            "files": [
+                "best_model.h5",
+                "best_model.keras",
+                "final_model.h5",
+                "final_model.keras",
+                "model.weights.h5",
+                "model_architecture.txt"
+            ]
+        },
+        "Training": {
+            "file_count": 3,
+            "files": [
+                "training_history.csv",
+                "training_history.pkl",
+                "training_metrics.png"
+            ]
+        },
+        "Evaluation": {
+            "file_count": 4,
+            "files": [
+                "confusion_matrix.png",
+                "error_analysis.csv",
+                "misclassified_images.png",
+                "test_predictions.csv"
+            ]
+        },
+        "XAI": {
+            "file_count": 1,
+            "files": [
+                "gradcam_samples.png"
+            ]
+        }
+    }
+}
